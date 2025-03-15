@@ -1,20 +1,11 @@
 # JavascriptPelegrina-75790
-🛒 Simulador de Tienda Online
+🛒 Simulador de Tienda de Hardware
 
 Este es un simulador de tienda online desarrollado en **HTML, CSS y JavaScript**. Permite visualizar una lista de productos, agregar productos al carrito y ver el total de la compra. La interacción se realiza principalmente a través de la **consola del navegador y cuadros de diálogo (`prompt`, `alert`, `confirm`)**, cumpliendo con las consignas del proyecto.
 
 ---
 
-## 📌 **Estructura del Proyecto**
-El proyecto consta de los siguientes archivos:
-
-- **index.html** → Contiene la estructura de la página.
-- **app2.js** → Contiene la lógica del simulador.
-- **README.md** → Explica el funcionamiento del simulador.
-
----
-
-## 🎯 **Objetivo del Simulador**
+🎯 **Objetivo del Simulador**
 El objetivo del simulador es permitir al usuario:
 
 1. **Ver la lista de productos** disponibles en la tienda.
@@ -25,8 +16,8 @@ El objetivo del simulador es permitir al usuario:
 
 ---
 
-## 🔹 **Cómo Funciona**
-### **1️⃣ Mostrar Productos**
+🔹 **Cómo Funciona**
+1️⃣ Mostrar Productos
 Al cargar la página, la lista de productos se muestra en:
 - La **consola del navegador** (`console.log`).
 - La **interfaz del usuario** dentro de la sección *Lista de Productos*.
