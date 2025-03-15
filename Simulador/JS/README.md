@@ -9,7 +9,7 @@ Este es un simulador de tienda online desarrollado en **HTML, CSS y JavaScript**
 El proyecto consta de los siguientes archivos:
 
 - **index.html** → Contiene la estructura de la página.
-- **js/simulador.js** → Contiene la lógica del simulador.
+- **app2.js** → Contiene la lógica del simulador.
 - **README.md** → Explica el funcionamiento del simulador.
 
 ---
